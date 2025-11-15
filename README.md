@@ -1,8 +1,8 @@
-<strong> Titanic Data Cleaning (Kaggle + Python)</strong>
+<h4> Titanic Data Cleaning (Kaggle + Python)</h4>
 
 A simple and structured workflow for cleaning the Kaggle Titanic dataset using Python and pandas. This project prepares the raw data for analysis and machine-learning tasks by handling missing values, fixing data types, and creating useful features.
 
-📌 Features
+<strong>📌 Features</strong>
 
 Handle missing values (Age, Fare, Embarked)
 
@@ -18,7 +18,7 @@ FamilySize
 
 Export a clean, analysis-ready CSV
 
-🗂️ Project Structure
+<strong>🗂️ Project Structure</strong>
 data/
   raw/       # Original Kaggle files
   cleaned/   # Outputs after processing
@@ -28,7 +28,7 @@ src/
   cleaning.py  (optional helper functions)
 README.md
 
-🚀 How to Use
+<strong>🚀 How to Use</strong>
 
 Download the Titanic dataset from Kaggle and place it in data/raw/.
 
@@ -44,7 +44,7 @@ jupyter notebook notebooks/titanic_cleaning.ipynb
 
 Cleaned files will be saved to data/cleaned/.
 
-📄 Dataset Source
+<strong>📄 Dataset Source</strong>
 
 Kaggle — Titanic: Machine Learning from Disaster.
 
